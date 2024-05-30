@@ -1,14 +1,14 @@
----
+<!-- ---
 layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
-  permalink: /page/:num/
-  per_page: 5
+  permalink: /page/:num3
+  per_page: 4
   sort_field: date
   sort_reverse: true
   trail:
@@ -193,4 +193,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->

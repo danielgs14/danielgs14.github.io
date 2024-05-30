@@ -22,9 +22,10 @@ Hey! Thanks for visiting. I'm Daniel Gonzalez Suarez, a Costa Rican marine biolo
 
 I have worked with early developmental stages of sea urchins, exposing them to environmental stressors to understand their responses to climate change. I've been fascinated by how life develops under our dynamic oceans and want to spend my career answering questions on how marine invertebrate larvae exist.
 
-For the past two and a half years, I have been working as an Analytics Engineer at Hakkoda, a data consultancy company. Data for Good, our social responsibility program, has a marine conservation chapter. Currently, I am supporting a proposal to work with coral gardening so our team can offer a solution to automate their processes and remarkably reduce working time.
+For the past two and a half years, I have been working as an Analytics Engineer at Hakkoda, a data consultancy company. Data for Good, our social responsibility program, has a marine conservation chapter. Currently, I am supporting a proposal to work with coral gardening so our team can offer a solution to automate their processes and remarkably reduce working time. 
 
 As a scientist and engineer, I believe in converting complex outputs into simple yet powerful insights. I seek to develop accelerators and automate tasks to streamline productivity.
+
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

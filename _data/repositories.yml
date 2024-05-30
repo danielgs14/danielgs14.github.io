@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - danielgs14
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - danielgs14/marine_soil_plot
+  - danielgs14/worms
+  - danielgs14/rename_files
