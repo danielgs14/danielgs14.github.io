@@ -4,17 +4,17 @@
 
 :root {
   --global-bg-color: #fff4dc;
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #041b29;
+  --global-code-bg-color: #124564;
+  --global-text-color: #124564;
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
-  --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #041b29;
-  --global-footer-text-color: #f7e8d6;
-  --global-footer-link-color: #{$white-color};
+  --global-theme-color: #124564;
+  --global-hover-color: #2b91cd;
+  --global-hover-text-color: #124564;
+  --global-footer-bg-color: #124564;
+  --global-footer-text-color: #fff4dc;
+  --global-footer-link-color: #fffcf4;
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
+  --global-divider-color: #0000001a;
   --global-card-bg-color: #f7e8d6;
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(#{red($black-color)}, #{green($black-color)}, #{blue($black-color)}, 0.4);
