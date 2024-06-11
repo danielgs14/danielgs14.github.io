@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: GitHUb repositories of coding projects I've done.
+description: Selection of public GitHub repositories of coding projects I've done so far.
 nav: true
 nav_order: 4
 ---
