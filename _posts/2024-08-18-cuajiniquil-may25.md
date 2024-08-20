@@ -55,20 +55,20 @@ We can hop back into the photography part of this trip. In this dive, as soon as
 Here's a picture of that same octopus, as well as another one I took later of another individual:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 Other interesting sights I got to see:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/astropyga.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/astropyga.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/telmatactis.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/telmatactis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -77,7 +77,7 @@ The first one is a fire sea urchin, **[*Astropyga pulvinata*](https://marinespec
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/eucidaris-sponge.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/eucidaris-sponge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
   
@@ -87,7 +87,7 @@ This is the same slate pencil sea urchin as seen before, but with its spines cov
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/halichoeres_question_discolor.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/halichoeres_question_discolor.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -101,13 +101,13 @@ Next, you can see fishes from the [Serranidae](https://www.fishbase.se/summary/F
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-2.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <br>
@@ -115,7 +115,7 @@ Next, you can see fishes from the [Serranidae](https://www.fishbase.se/summary/F
 Finally, find below more pictures from the trip, both from Cuajiniquil and Islas Murciélago:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraenidae-bw.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraenidae-bw.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 A black-and-white picture of a moray eel hidden under a coral. One of my favorites so far!
@@ -123,54 +123,54 @@ A black-and-white picture of a moray eel hidden under a coral. One of my favorit
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/ascidians-tubastraea.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/ascidians-tubastraea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/sponge.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/sponge.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/leptogorgia.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-</div>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/diadema-3.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/gymnothorax-moringa.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/canthigaster-punctatissima.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/leptogorgia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/diadema-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/gymnothorax-moringa.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/canthigaster-punctatissima.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis-1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-3.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraena-lentiginosa.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/tubastraea-dead.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/pinctada.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/pavona-1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraena-lentiginosa.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/tubastraea-dead.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/pinctada.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/pavona-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
