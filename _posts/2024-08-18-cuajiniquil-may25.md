@@ -87,17 +87,21 @@ This is the same slate pencil sea urchin as seen before, but with its spines cov
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/halichoeres_question_discolor.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/halichoeres-chierchiae.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
 This fish belongs to the **[Labridae](https://biogeodb.stri.si.edu/sftep/en/thefishes/taxon/1639)** family. These are common fishes but the one you're seeing here might be **[*Halichoeres discolor*](https://marinespecies.org/aphia.php?p=taxdetails&id=275762#distributions)**, an endemic species to the Costa Rican oceanic island Isla del Coco. It wouldn't be crazy to find species from Isla del Coco in Costa Rican coastal waters, but I didn't find many occurrences for it. 
 
-## More of our fauna
+### Update
+I sent an email to **[Ross Robertson](https://stri.si.edu/scientist/d-ross-robertson)**, an expert on tropical reef fishes. He kindly explained to me some detailes of why this is actually **[*Halichoeres chierchae*](https://biogeodb.stri.si.edu/sftep/en/thefishes/species/1657)**, possibly in the *initial phase*. 
 
-Next, you can see fishes from the [Serranidae](https://www.fishbase.se/summary/FamilySummary.php?ID=289) family. These are sea basses and groupers. First and third picture are possibly *[Cephalopholis panamensis](https://biogeodb.stri.si.edu/sftep/es/thefishes/species/1115)*, while the second one might be *[Epinephelus labriformis](https://biogeodb.stri.si.edu/sftep/es/thefishes/species/1125)*, one of the first fish I saw on my first time snorkeling! 
+*Halichoeres discolor* in its **[terminal phase](https://biogeodb.stri.si.edu/sftep/en/pages/random/9890)** kind of looks like *H. chierchiae*, though you can see many differences once you actually pay attention to them. I'll leave the linked pictures so you can see them for yourselves!
+
+What's an *initial phase*? What other phases there are? We need to first understand a key aspect of reef fish biology: **[*sequential hermaphroditism*](https://en.wikipedia.org/wiki/Sequential_hermaphroditism)**. Let's simplify that term. I think we're mostly familiar with *hermaphroditism* as an individual that has both sex organs from male and female anatomy. *Sequential* hermaprodites first have a sex organ from either male or famle anatomy and then transition into the other one. Reef fishes go through this process and that's why the have *initial* and *terminal* phases. 
 <br>
 
+## Other reef fishes
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -111,6 +115,8 @@ Next, you can see fishes from the [Serranidae](https://www.fishbase.se/summary/F
     </div>
 </div>
 <br>
+
+## A collection of pictures
 
 Finally, find below more pictures from the trip, both from Cuajiniquil and Islas Murciélago:
 <div class="row mt-3">
