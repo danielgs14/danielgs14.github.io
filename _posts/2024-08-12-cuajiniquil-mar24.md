@@ -36,6 +36,7 @@ In Costa Rica, we're fortunate to have these amazing rocky reefs in the Pacific 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/diadema-hotel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
 <div class="caption">
     <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=513223" style="font-weight: bold;"><i>Diadema mexicanum</i></a>, the long-spined sea urchin, is an abundant figure in the Eastern Tropical Pacific rocky reefs. The second picture shows how its long spines shelter small fish, possibly being used as a protection from predators. 
 </div>
@@ -49,6 +50,7 @@ Sea stars and sea urchins are echinoderms, a group that also includes brittle st
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/sea-cucumber-crown.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
 <div class="caption">
     Sea cucumbers sheltered inside rocks. A feature that characterizes echinoderms is the five-side symmetry, easily evidenced in sea stars. However, you can see in the left picture that same symmetry! On the right picture, you can see the tentacles that characterize the sea cucumber order Dendrochirotida. 
 </div>
