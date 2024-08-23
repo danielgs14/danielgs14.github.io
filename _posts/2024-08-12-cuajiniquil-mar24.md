@@ -38,7 +38,7 @@ In Costa Rica, we're fortunate to have these amazing rocky reefs in the Pacific 
     </div>
 </div>
 <div class="caption">
-    <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=513223" style="font-weight: bold;"><i>Diadema mexicanum</i></a>, the long-spined sea urchin, is an abundant figure in the Eastern Tropical Pacific rocky reefs. The second picture shows how its long spines shelter small fish, possibly being used as a protection from predators. 
+    <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=513223" style="font-weight: bold;"><i>Diadema mexicanum</i></a>, the long-spined sea urchin, is an abundant figure in the Eastern Tropical Pacific rocky reefs. The second picture shows how its long spines offer shelter to some <a href = "https://biogeodb.stri.si.edu/sftep/en/pages/random/10138" style="font-weight: bold;">recruits</a> of the Cortez rainbow wrasse <a href="https://biogeodb.stri.si.edu/sftep/es/thefishes/species/1675" style="font-weight: bold;"><i>Thalassoma lucasanum</i></a>
 </div>
 
 Sea stars and sea urchins are echinoderms, a group that also includes brittle stars, sea cucumbers and sea lilies - these last ones are quite uncommon in Costa Rica.  
@@ -52,7 +52,7 @@ Sea stars and sea urchins are echinoderms, a group that also includes brittle st
     </div>
 </div>
 <div class="caption">
-    Sea cucumbers sheltered inside rocks. A feature that characterizes echinoderms is the five-side symmetry, easily evidenced in sea stars. However, you can see in the left picture that same symmetry! On the right picture, you can see the tentacles that characterize the sea cucumber order Dendrochirotida. 
+    Sea cucumbers sheltered inside rocks. A feature that characterizes echinoderms is the five-side symmetry, easily evidenced in sea stars. However, you can see in the left picture that same symmetry! On the right picture, you can see the tentacles that characterize the sea cucumber order Dendrochirotida. These belong to the species <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=529159" style="font-weight:bold;"><i>Cucumaria flamma</i></a>. 
 </div>
 
 You bet I saw more than echinoderms. Rocky reefs have a burst of many beautiful species!
@@ -75,9 +75,8 @@ You bet I saw more than echinoderms. Rocky reefs have a burst of many beautiful 
 </div>
 
 Two coral species commonly found in this zone: 
-&nbsp;
 <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=206938" style="font-weight: bold;"><i>Pocillopora</i></a>&nbsp;sp. 
-and&nbsp;
+and
 <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=289201" style="font-weight: bold;"><i>Pavona gigantea</i></a>.
 
 <div class="row mt-3">
@@ -86,7 +85,7 @@ and&nbsp;
     </div>
 </div>
 
-Can you see it? Some species from the Scorpaenidae family of fish have great camouflage. Be careful - they're quite venomous.
+Can you see it? Some species from the **[Scorpaenidae](https://biogeodb.stri.si.edu/sftep/es/thefishes/taxon/1002)** family of fish have great camouflage. Be careful - they're quite venomous. Here you can see [***Scorpaena mystes***](https://biogeodb.stri.si.edu/sftep/es/thefishes/species/1016).
 
 <br>
 <br>
