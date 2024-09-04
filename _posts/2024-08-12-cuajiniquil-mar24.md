@@ -45,10 +45,10 @@ Sea stars and sea urchins are echinoderms, a group that also includes brittle st
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/sea-cucumber.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria-flamma-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/sea-cucumber-crown.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria-flamma.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -77,11 +77,11 @@ You bet I saw more than echinoderms. Rocky reefs have a burst of many beautiful 
 Two coral species commonly found in this zone: 
 <a href="https://marinespecies.org/aphia.php?p=taxdetails&id=206938" style="font-weight: bold;"><i>Pocillopora</i></a>&nbsp;sp. 
 and
-<a href="https://marinespecies.org/aphia.php?p=taxdetails&id=289201" style="font-weight: bold;"><i>Pavona gigantea</i></a>.
+<a href="https://marinespecies.org/aphia.php?p=taxdetails&id=207318" style="font-weight: bold;"><i>Pavona clavus</i></a>.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-mar24/scorpaenidae.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-mar24/scorpaena-mystes.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -109,7 +109,7 @@ I got to photograph many other creatures like sea urchins, hermit crabs, ascidia
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/arothron.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/hermit.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/aniculus-elegans.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/muraenidae.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -118,12 +118,12 @@ I got to photograph many other creatures like sea urchins, hermit crabs, ascidia
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/black-coral.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/myriopathes-panamensis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/tripneustes.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/ascidian.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/ascidia-sideralis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

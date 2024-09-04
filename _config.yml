@@ -291,8 +291,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["costarica", "pacific"] # these tags will be displayed on the front page of your blog
-display_categories: ["photo"] # these categories will be displayed on the front page of your blog
+display_tags: ["costarica", "pacific", "photography"] # these tags will be displayed on the front page of your blog
+display_categories: ["photography"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
