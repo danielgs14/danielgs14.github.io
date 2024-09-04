@@ -153,7 +153,7 @@ A black-and-white picture of a moray eel hidden under a coral. One of my favorit
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
