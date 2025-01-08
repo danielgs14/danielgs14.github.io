@@ -102,7 +102,7 @@ I saw *so* many pufferfish this time. *Diodon holocanthus*, *Sphoeroides lispidu
 </div>
 
 ## AI stuff?
-Taking pictures of moving fish hasn't been easy for me. I saw an eye-catching *Pomacanthus zonipectues* in its juvenile stage.
+Taking pictures of moving fish hasn't been easy for me. I saw an eye-catching *Pomacanthus zonipectus* in its juvenile stage.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -120,7 +120,7 @@ In this picture, you see mainly two species: *Rhopalea birkelandii* and *Tubastr
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-jun24/tubastraea_rhopalea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-jun24/tubastraea_rhopalaea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 Explaning phylogenetics may come in a separate post as this one comes packed with lots of information. For now, just look at that contrast!
