@@ -121,7 +121,7 @@ What's an *initial phase*? What other phases there are? We need to first underst
 Finally, find below more pictures from the trip, both from Cuajiniquil and Islas Murciélago:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraenidae-bw.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/muraenidae-bw.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 A black-and-white picture of a moray eel hidden under a coral. One of my favorites so far!
@@ -153,7 +153,7 @@ A black-and-white picture of a moray eel hidden under a coral. One of my favorit
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 

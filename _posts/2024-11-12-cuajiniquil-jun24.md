@@ -129,7 +129,7 @@ Explaning phylogenetics may come in a separate post as this one comes packed wit
 ## A collection of pictures
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-jun24/pavona.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-jun24/pavona.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 <div class="row mt-3">

@@ -120,7 +120,7 @@ And more invertebrates:
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tenerife-julaug24/Branchiomma_sp1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/tenerife-julaug24/Branchiomma_sp1.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 <div class="row mt-3">
@@ -138,7 +138,7 @@ An intertidal adventure. In 2018, I went to this same place and had a GoPro Sess
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/tenerife-julaug24/Clibanarius_aequabilis0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/tenerife-julaug24/Clibanarius_aequabilis0.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 
