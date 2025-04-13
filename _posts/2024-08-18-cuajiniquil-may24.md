@@ -98,7 +98,7 @@ I sent an email to **[Ross Robertson](https://stri.si.edu/scientist/d-ross-rober
 
 *Halichoeres discolor* in its **[terminal phase](https://biogeodb.stri.si.edu/sftep/en/pages/random/9890)** kind of looks like *H. chierchiae*, though you can see many differences once you actually pay attention to them. I'll leave the linked pictures so you can see them for yourselves!
 
-What's an *initial phase*? What other phases there are? We need to first understand a key aspect of reef fish biology: **[*sequential hermaphroditism*](https://en.wikipedia.org/wiki/Sequential_hermaphroditism)**. Let's simplify that term. I think we're mostly familiar with *hermaphroditism* as an individual that has both sex organs from male and female anatomy. *Sequential* hermaprodites first have a sex organ from either male or famle anatomy and then transition into the other one. Reef fishes go through this process and that's why the have *initial* and *terminal* phases. 
+What's an *initial phase*? What other phases there are? We need to first understand a key aspect of reef fish biology: **[sequential hermaphroditism](https://en.wikipedia.org/wiki/Sequential_hermaphroditism)**. Let's simplify that term. I think we're mostly familiar with *hermaphroditism* as an individual that has both sex organs from male and female anatomy. *Sequential* hermaprodites first have a sex organ from either male or famle anatomy and then transition into the other one. Reef fishes go through this process and that's why the have *initial* and *terminal* phases. 
 <br>
 
 ## Other reef fishes

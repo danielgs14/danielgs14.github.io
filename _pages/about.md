@@ -22,7 +22,7 @@ Hey! Thanks for visiting. I'm Daniel Gonzalez Suarez, a Costa Rican marine biolo
 
 I have mostly worked with early developmental stages of sea urchins, exposing them to environmental stressors to understand their responses to climate change. I've been fascinated by how life develops under our dynamic oceans and want to spend my career answering questions on how marine invertebrate larvae exist.
 
-For the past three years, I have been working as an Analytics Engineer at [Hakkoda](https://hakkoda.io/), a data consultancy company. My work here has included automating quality assurance (QA) testing for a DataVault 2.0 project, refactoring legacy code into new data models, and recreating Tableau & Excel reports into dashboards in the BI tool [Sigma](https://www.sigmacomputing.com/), which plays along nicely with [Snowflake](https://www.snowflake.com/en/). 
+For the past three years, I have been working as an Analytics Engineer at [Hakkoda](https://hakkoda.io/), a data consultancy company. My work here has included automating quality assurance (QA) testing for a DataVault 2.0 implementation, refactoring legacy code into new data models, and recreating Tableau & Excel reports into dashboards in the BI tool [Sigma](https://www.sigmacomputing.com/), which plays along nicely with [Snowflake](https://www.snowflake.com/en/). 
 
 As a scientist and engineer, I believe in converting complex outputs into simple yet powerful insights. I seek to develop accelerators and automate tasks to streamline productivity.
 

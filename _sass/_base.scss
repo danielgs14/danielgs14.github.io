@@ -34,7 +34,15 @@ table {
   }
 }
 
-a,
+a {
+  color: var(--global-link-color);
+  text-decoration: none;
+}
+
+a:hover, a:focus {
+  color: var(--global-link-color);
+  text-decoration: underline;
+}
 table.table a {
   color: var(--global-theme-color);
 

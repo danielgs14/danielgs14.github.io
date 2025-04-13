@@ -16,6 +16,7 @@
   --global-distill-app-color: #{$grey-color};
   --global-divider-color: #deaa39;
   --global-card-bg-color: #f7e8d6;
+  --global-link-color: #d4a017;
   --global-highlight-color: #{$red-color-dark};
   --global-back-to-top-bg-color: rgba(#{red($black-color)}, #{green($black-color)}, #{blue($black-color)}, 0.4);
   --global-back-to-top-text-color: #{$white-color};
@@ -78,7 +79,8 @@ html[data-theme="dark"] {
   --global-footer-link-color: #0b4970;
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #b3b3fdb2;
-  --global-card-bg-color: #001733;
+  --global-card-bg-color: #001733;  
+  --global-link-color: #d4a017;
   --global-back-to-top-bg-color: rgba(#{red($white-color)}, #{green($white-color)}, #{blue($white-color)}, 0.5);
   --global-back-to-top-text-color: #{$black-color};
 
