@@ -11,18 +11,6 @@ thumbnail: assets/img/puntaleona-mar25/Felimare0.jpg
 ## Dive Buddies!
 I started school in 2012, thirteen years ago. On my second year, I made some friends and one of them started her diving business this year! Check them out at their [website](https://crdivebuddies.com/) and instagram [@crdivebuddies](https://www.instagram.com/crdivebuddies/). I've shared all pictures I've taken on the Costa Rican Pacific coast with them! In this diving adventure, we went to Punta Leona, located in the upper part of the Central Pacific coast and where the Gulf of Nicoya connects with the Pacific Ocean. In this area, there's less riverine input and the ecosystem looks more like a rocky reef, though this place is not a diver's favorite. The diving point in which the students practiced was quite sandy and had many underwater structures, known as a "museum". There's not much to see on the larger side of the scale, like any interesting fish. 
 
-<div class="row mt-3">
-    <div class="col-lg mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/puntaleona-mar25/Pennaria0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-lg mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/puntaleona-mar25/Gerres1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>    
-    <div class="col-lg mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/puntaleona-mar25/Pennaria1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-
 However, once you focus on the small stuff, you get to see some fun creatures, like these blennies (*Acanthemblemaria hancocki*).
 
 <div class="row mt-3">
