@@ -55,10 +55,10 @@ We can hop back into the photography part of this trip. In this dive, as soon as
 Here's a picture of that same octopus, as well as another one I took later of another individual:
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -105,13 +105,13 @@ What's an *initial phase*? What other phases there are? We need to first underst
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <br>
@@ -141,7 +141,7 @@ A black-and-white picture of a moray eel hidden under a coral. One of my favorit
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/diadema-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/diadema.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/cuajiniquil-may24/gymnothorax.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -153,16 +153,16 @@ A black-and-white picture of a moray eel hidden under a coral. One of my favorit
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus-2.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/octopus2.jpg" class="img-fluid rounded z-depth-1 mx-auto d-block" zoomable=true max-width="40%" %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus-labriformis-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/epinephelus1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis-3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-may24/cephalopholis2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/cuajiniquil-may24/muraena-lentiginosa.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}

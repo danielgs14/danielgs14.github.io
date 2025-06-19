@@ -15,7 +15,7 @@ In Costa Rica, we're fortunate to have these amazing rocky reefs in the Pacific 
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/phataria.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/mithrodia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/mithrodia0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/pharia.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -31,10 +31,10 @@ In Costa Rica, we're fortunate to have these amazing rocky reefs in the Pacific 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/diadema.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/diadema1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/diadema-hotel.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/diadema0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -45,10 +45,10 @@ Sea stars and sea urchins are echinoderms, a group that also includes brittle st
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria-flamma-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria-flamma.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/cucumaria0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -59,18 +59,18 @@ You bet I saw more than echinoderms. Rocky reefs have a burst of many beautiful 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pocillopora.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pocillopora0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pocillopora-morphs.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pocillopora1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div> 
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pavona.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pavona0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pavona-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/cuajiniquil-mar24/pavona1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -89,18 +89,29 @@ Can you see it? Some species from the **[Scorpaenidae](https://biogeodb.stri.si.
 
 <br>
 <br>
-<br>
+
+## The Gallery
 I got to photograph many other creatures like sea urchins, hermit crabs, ascidians, black corals (!), solitary corals, moray eels and pufferfish. We truly have an amazing diversity here in Costa Rica. Find more pictures down here:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/tubastrea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/mithrodia1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -118,7 +129,7 @@ I got to photograph many other creatures like sea urchins, hermit crabs, ascidia
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/myriopathes-panamensis.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/myriopathes.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/tripneustes.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
