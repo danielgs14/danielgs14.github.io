@@ -98,7 +98,7 @@ I got to photograph many other creatures like sea urchins, hermit crabs, ascidia
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris0.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/tubastrea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/tubastraea.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/cuajiniquil-mar24/eucidaris1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
