@@ -8,8 +8,9 @@ categories: photo
 thumbnail: assets/img/cano-jan25/Octopus.jpg
 ---
 
-## Dive Buddies!
-I started school thirteen years ago. On my second year, I made some friends and one of them started her diving business this year! Check them out at their [website](https://crdivebuddies.com/) and instagram [@crdivebuddies](https://www.instagram.com/crdivebuddies/). I've shared all pictures I've taken on the Costa Rican Pacific coast with them! 
+## The Intertidal Zone
+I used to have a beautiful text describing the intertidal zone here but seems I overwrote it and can't find what I initially had. Well, bad luck for me. We'll start with these pictures and then go on with the post. 
+
 
 <div class="row mt-3">
     <div class="col-lg mt-3 mt-md-0">
