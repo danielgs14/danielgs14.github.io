@@ -1,8 +1,12 @@
 #!/bin/bash
 
-CONFIG_FILE=_config.yml 
+CONFIG_FILE=_config.yml
 
-/bin/bash -c "rm -f Gemfile.lock && exec bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling"&
+# Local preview only: development mode skips minification, _config.dev.yml skips image resizing,
+# and building into the container's /tmp avoids slow writes to the Windows-mounted repo folder.
+SERVE_CMD="rm -f Gemfile.lock && JEKYLL_ENV=development exec bundle exec jekyll serve --config _config.yml,_config.dev.yml --destination /tmp/_site --watch --port=8080 --host=0.0.0.0 --livereload --trace --force_polling"
+
+/bin/bash -c "$SERVE_CMD"&
 
 while true; do
 
@@ -15,7 +19,7 @@ while true; do
     jekyll_pid=$(pgrep -f jekyll)
     kill -KILL $jekyll_pid
 
-    /bin/bash -c "rm -f Gemfile.lock && exec bundle exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace --force_polling"&
+    /bin/bash -c "$SERVE_CMD"&
 
   fi
 

@@ -1,0 +1,6 @@
+# Local preview overrides, loaded after _config.yml by bin/entry_point.sh.
+# The GitHub Pages deploy (.github/workflows/deploy.yml) does not read this file.
+
+# Skip generating resized .webp copies of every photo; pages fall back to the original image.
+imagemagick:
+  enabled: false

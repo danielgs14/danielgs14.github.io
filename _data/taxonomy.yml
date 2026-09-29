@@ -1,0 +1,10 @@
+# Taxonomic ranks for the calendar species, keyed by the exact `species` value in each _calendar/ file.
+# Source: WoRMS (https://www.marinespecies.org).
+
+"Sepioteuthis sepioidea":
+  - { rango: Reino, nombre: Animalia }
+  - { rango: Filo, nombre: Mollusca }
+  - { rango: Clase, nombre: Cephalopoda }
+  - { rango: Orden, nombre: Myopsida }
+  - { rango: Familia, nombre: Loliginidae }
+  - { rango: Género, nombre: Sepioteuthis }

@@ -185,6 +185,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  calendar:
+    output: true
+    permalink: /calendar/:name/
 
 announcements:
   enabled: true
@@ -259,6 +262,11 @@ plugins:
 
 # Sitemap settings
 defaults:
+  - scope:
+      path: ""
+      type: calendar
+    values:
+      layout: calendar-month
   - scope:
       path: "assets"
     values:

@@ -1,0 +1,38 @@
+{% assign month = include.month %}
+<div class="col mb-4">
+  <a href="{{ month.url | relative_url }}">
+    <div class="card h-100 hoverable">
+      {% if month.image %}
+        {%
+          include figure.liquid
+          loading="lazy"
+          path=month.image
+          sizes="(min-width: 768px) 33vw, (min-width: 576px) 50vw, 95vw"
+          alt=month.species
+          class="card-img-top"
+        %}
+      {% else %}
+        <div
+          class="card-img-top d-flex align-items-center justify-content-center"
+          style="aspect-ratio: 3 / 2; background-color: var(--global-divider-color); color: var(--global-card-bg-color); font-size: 3rem; font-weight: 700;"
+        >
+          {{ month.month | prepend: '0' | slice: -2, 2 }}
+        </div>
+      {% endif %}
+      <div class="card-body">
+        <h2 class="card-title">{{ month.title }}</h2>
+        {% if month.species %}
+          <p class="card-text mb-1">
+            <em>{{ month.species }}</em>
+          </p>
+        {% endif %}
+        {% if month.common_name %}
+          <p class="card-text mb-1">{{ month.common_name }}</p>
+        {% endif %}
+        {% if month.description %}
+          <p class="card-text"><small>{{ month.description }}</small></p>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>

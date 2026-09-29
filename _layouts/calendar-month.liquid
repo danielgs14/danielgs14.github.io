@@ -1,0 +1,73 @@
+---
+layout: default
+---
+{% assign months = site.calendar | sort: "month" %}
+{% assign idx = 0 %}
+{% for m in months %}
+  {% if m.url == page.url %}
+    {% assign idx = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+{% assign prev_idx = idx | plus: months.size | minus: 1 | modulo: months.size %}
+{% assign next_idx = idx | plus: 1 | modulo: months.size %}
+{% assign prev_month = months[prev_idx] %}
+{% assign next_month = months[next_idx] %}
+
+<div class="post">
+  <header class="post-header">
+    <p class="post-meta">
+      <a href="{{ '/calendar/' | relative_url }}"><i class="fa-solid fa-calendar fa-sm"></i> calendar</a>
+    </p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% if page.species or page.common_name %}
+      <p class="post-description">
+        {% if page.species %}<em>{{ page.species }}</em>{% endif %}
+        {% if page.species and page.common_name %} &middot; {% endif %}
+        {% if page.common_name %}{{ page.common_name }}{% endif %}
+      </p>
+    {% endif %}
+  </header>
+
+  {% if page.image %}
+    <div class="row mt-3">
+      <div class="col">
+        {%
+          include figure.liquid
+          loading="eager"
+          path=page.image
+          alt=page.species
+          class="img-fluid rounded z-depth-1"
+          zoomable=true
+        %}
+      </div>
+    </div>
+  {% endif %}
+
+  {% if page.location or page.photo_date %}
+    <p class="post-meta">
+      {% if page.location %}<i class="fa-solid fa-location-dot fa-sm"></i> {{ page.location }}{% endif %}
+      {% if page.location and page.photo_date %} &nbsp; &middot; &nbsp; {% endif %}
+      {% if page.photo_date %}<i class="fa-solid fa-camera fa-sm"></i> {{ page.photo_date }}{% endif %}
+    </p>
+  {% endif %}
+
+  {% assign tax_ranks = site.data.taxonomy[page.species] %}
+  {% include taxonomy_frames.liquid ranks=tax_ranks species=page.species common_name=page.common_name %}
+
+  <article>
+    {% assign body = content | strip_html | strip %}
+    {% if body == "" %}
+      <p><em>More about this species soon.</em></p>
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </article>
+
+  {% if months.size > 1 %}
+    <hr>
+    <div class="d-flex justify-content-between">
+      <a href="{{ prev_month.url | relative_url }}"><i class="fa-solid fa-arrow-left fa-sm"></i> {{ prev_month.title }}</a>
+      <a href="{{ next_month.url | relative_url }}">{{ next_month.title }} <i class="fa-solid fa-arrow-right fa-sm"></i></a>
+    </div>
+  {% endif %}
+</div>

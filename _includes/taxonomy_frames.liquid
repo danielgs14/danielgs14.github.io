@@ -1,0 +1,25 @@
+{% comment %}
+  Nested frames showing a species' taxonomic ranks, outermost (kingdom) to innermost (species).
+  Usage: assign the ranks from _data/taxonomy.yml first (bracket lookups aren't allowed inside include tags),
+  then include this file with ranks=that_variable, species=page.species and common_name=page.common_name.
+{% endcomment %}
+{% if include.ranks %}
+  <div class="tax-frames" aria-label="Clasificación taxonómica">
+    {% for r in include.ranks %}
+      <div class="tax-frame">
+        <div class="tax-label">
+          <span class="tax-rank">{{ r.rango }}</span>
+          <span class="tax-name{% if r.rango == 'Género' %} tax-italic{% endif %}">{{ r.nombre }}</span>
+          {% if r.comun %}<span class="tax-common">{{ r.comun }}</span>{% endif %}
+        </div>
+    {% endfor %}
+    <div class="tax-core">
+      <span class="tax-rank">Especie</span>
+      <span class="tax-species">{{ include.species }}</span>
+      {% if include.common_name %}<span class="tax-common">{{ include.common_name }}</span>{% endif %}
+    </div>
+    {% for r in include.ranks %}
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
